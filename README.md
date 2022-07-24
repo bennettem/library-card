@@ -1,5 +1,4 @@
 # Book Search Engine Starter Code
-# Book Search Engine Starter Code
 
 This book search engine utilizes GraphQL with Apollo servers. With this search engine you can utilize the Google Books API to search for books and save them to your account if you are logged in to be able to view them later. You are also able to remove saved books from your profile wehen inspecting your saved book list. This application is deployed on Heroku as well.
 
